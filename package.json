@@ -1,0 +1,12 @@
+{
+  "name": "fest-gate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fest Gate campus event registration and check-in demo",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "nodemailer": "^10.1.0"
+  }
+}
